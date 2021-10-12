@@ -11,3 +11,4 @@ b.	Do the piles have the correct number of cards?  1-9, no duplicates
 8)	Display the results to the user and whether they have won. 
 9)	Ask the user if they would like play another game? The user’s response should be either yes or no, y or n, 1 or 2, whatever.  Just be sure you tell the user what the choices are.  If the answer is yes, loop up to the CreatePile function.  Be sure to re-initialize any variables for the next game and use a ClearPile function for the array.
 10)	When the user is finished, show a goodbye message to the screen.
+![image](https://user-images.githubusercontent.com/56604861/136890473-d9854c52-a1ed-4955-8995-0625e5a2bd1a.png)
