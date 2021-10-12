@@ -9,9 +9,9 @@ using namespace std;
 void WriteHeader()
 {
     //course information
-    cout << "Program 1: Solitaire \nCIS 2275: C++ Programming II"<<endl;
-    cout << "Ashley Luna"<<endl;
-    cout << "Email@email.email"<<endl;
+    cout << "Bulgarian Solitaire \nC++ Programming"<<endl;
+    cout << "Lazarus Mwangi"<<endl;
+    cout << "swanlaz64@gmail.com"<<endl;
     //program information
     cout << "The game begins with 45 cards that have been randomly placed into a random number of piles."<<endl;
     cout << "For each round, one card will be taken from each pile, and added into a new pile."<<endl;
