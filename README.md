@@ -1,4 +1,5 @@
 # Simple-Bulgarian-Solitaire-C-plus
+	A very simple program in C++ for playing the bulgarian solitaire
 1)	The main function begins by calling the WriteHeader function, which writes the header info to the screen along with any program-specific information for the user.  
 2)	Declare variables, including an array for the distribution of piles, also known as the board.  Open a do-while or while loop for multiple game play.
 3)	Using the CreatePiles and RandInt functions, generate a random board, or the initial random distribution of piles.  Display the initial board using PrintPiles.
